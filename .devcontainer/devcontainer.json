@@ -1,0 +1,4 @@
+{
+  "name": "KIS AutoTrading",
+  "postCreateCommand": "bash /workspaces/open-trading-api/.devcontainer/setup.sh"
+}
